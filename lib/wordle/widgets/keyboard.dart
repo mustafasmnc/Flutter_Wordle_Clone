@@ -102,6 +102,7 @@ class _KeyboardButton extends StatelessWidget {
             alignment: Alignment.center,
             child: Text(letter,
                 style: TextStyle(
+                  color: Colors.black87,
                   fontSize: 12,
                   fontWeight: FontWeight.w600,
                 )),
